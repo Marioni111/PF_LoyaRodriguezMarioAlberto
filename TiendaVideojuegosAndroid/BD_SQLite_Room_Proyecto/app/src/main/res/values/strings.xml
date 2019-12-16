@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">BD_SQLite</string>
+
+    <string name="txt_btn_altas"> AGREGAR JUEGO </string>
+    <string name="txt_btn_bajas"> ELIMINAR JUEGO</string>
+    <string name="txt_btn_cambios"> MODIFICAR JUEGO</string>
+    <string name="txt_btn_consultas"> BUSCAR JUEGO</string>
+    <string name="txt_btn_añadir"> AÑADIR JUEGO</string>
+    <string name="txt_btn_cancelar"> CANCELAR </string>
+    <string name="txt_lbl_altas_alumnos"> VENDER JUEGO </string>
+    <string name="txt_lbl_num_control"> ID JUEGO </string>
+    <string name="txt_lbl_nombre"> TITULO </string>
+    <string name="txt_lbl_primer_ap"> PLATAFORMA </string>
+    <string name="txt_lbl_segundo_ap"> CANTIDAD </string>
+    <string name="txt_lbl_edad"> PRECIO </string>
+    <string name="Titulo"> ELIGE UNA OPCION </string>
+    <string name="Prudcto"> JUEGO </string>
+    <string name="Pedidos"> Pedidos </string>
+    <string name="TituloProducto"> ELIGE UNA OPCION </string>
+    <string name="Login"> INICIAR SESION</string>
+    <string name="mainmenu"> INICIO </string>
+
+    <string name="IDH"> ID: </string>
+    <string name="TipoH"> Tipo de actividad: </string>
+    <string name="actividadH"> Descripción: </string>
+
+    <string name="np"> Titulo: </string>
+    <string name="Tp"> Plataforma: </string>
+    <string name="CA"> Cantidad: </string>
+    <string name="ID"> ID Juego: </string>
+
+    <string name="SWITCH_OFF"> Cambiar idioma Ingles: </string>
+    <string name="SWITCH_ON"> Change English language: </string>
+
+    <string-array name="Plataformas">
+    <item> Plataform...</item>
+    <item> Playstation 4 </item>
+    <item> Xbox one</item>
+    <item> Nintendo switch</item>
+</string-array>
+
+
+</resources>

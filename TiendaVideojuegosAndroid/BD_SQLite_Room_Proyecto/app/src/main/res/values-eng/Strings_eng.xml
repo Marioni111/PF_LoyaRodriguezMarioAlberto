@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BD_SQLite</string>
+    <string name="txt_btn_altas"> ADD NEW GAME </string>
+    <string name="txt_btn_bajas"> DELETE GAME </string>
+    <string name="txt_btn_cambios"> MODIFY GAME </string>
+    <string name="txt_btn_consultas"> SEARCH GAME </string>
+    <string name="txt_btn_añadir"> ADD </string>
+    <string name="txt_btn_cancelar"> CANCEL </string>
+    <string name="txt_lbl_altas_alumnos"> SEL GAME </string>
+    <string name="txt_lbl_num_control"> ID GAME </string>
+    <string name="txt_lbl_nombre"> TITULE </string>
+    <string name="txt_lbl_primer_ap"> PLATAFORME </string>
+    <string name="txt_lbl_segundo_ap"> AMOUNT </string>
+    <string name="txt_lbl_edad"> PRICE </string>
+    <string name="Titulo"> Choose an option</string>
+    <string name="Prudcto"> GAME </string>
+    <string name="Pedidos"> Orders </string>
+    <string name="TituloProducto">Choose an option</string>
+    <string name="Login"> Log in</string>
+    <string name="mainmenu"> Start </string>
+
+    <string name="IDH"> ID</string>
+    <string name="TipoH"> Type of activity: </string>
+    <string name="actividadH"> Description: </string>
+
+    <string name="np"> Titule: </string>
+    <string name="Tp">Plataforme: </string>
+    <string name="CA"> Quantity: </string>
+    <string name="ID"> ID Game: </string>
+
+    <string name="SWITCH_OFF"> Cambiar idioma Ingles: </string>
+    <string name="SWITCH_ON"> change language to Spanish: </string>
+
+    <string-array name="Plataformas">
+        <item> Plataform...</item>
+        <item> Playstation 4 </item>
+        <item> Xbox one</item>
+        <item> Nintendo switch</item>
+    </string-array>
+
+</resources>
